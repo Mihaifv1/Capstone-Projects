@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Webdev and Python<br>🎯 Goals: To participate in a lot of Hackathons and have fun<br>🎲 Fun fact: I like reading SF books and playing RPGs and MMOs</p>
 
 <h3 align="left">Connect with me:</h3>
