@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mihai</h1>
-<h3 align="center">A passionate ML Engineer wannabe from Romania</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihaifv1&label=Profile%20views&color=0e75b6&style=flat" alt="mihaifv1" /> </p>
+###
 
-- 🔭 I’m currently working on 100-days-of-Python [100-days-of-Python](https://github.com/Mihaifv1/100_days_of_Python)
+<p align="left">My name is Mihai and I'm a ML Engineer wannabe, from Romania</p>
 
-- 🌱 I’m currently learning **Courses, Frameworks**
+###
 
-- 🔭 I’m currently working on 100-days-of-Webdev [100-days-of-Webdev](https://github.com/Mihaifv1/100_days_of_Webdev)
-
-- 👨‍💻 All of my impressive projects are available at [https://github.com/Mihaifv1/Cornerstone-Projects](https://github.com/Mihaifv1/Cornerstone-Projects)
-
-- 💬 Ask me about **life, pointers and lists**
-
-- ⚡ Fun fact **I think I am good at jokes and I like playing RPGs and reading SF**
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Webdev and Python<br>🎯 Goals: To participate in a lot of Hackathons and have fun<br>🎲 Fun fact: I like reading SF books and playing RPGs and MMOs</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
