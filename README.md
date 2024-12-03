@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Courses, Frameworks**
 
-- 🔭 I’m looking to working on 100-days-of-Webdev [100-days-of-Webdev](https://github.com/Mihaifv1/100_days_of_Webdev)
+- 🔭 I’m currently working on 100-days-of-Webdev [100-days-of-Webdev](https://github.com/Mihaifv1/100_days_of_Webdev)
 
 - 👨‍💻 All of my impressive projects are available at [https://github.com/Mihaifv1/Cornerstone-Projects](https://github.com/Mihaifv1/Cornerstone-Projects)
 
